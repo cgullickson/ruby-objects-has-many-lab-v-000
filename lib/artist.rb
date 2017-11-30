@@ -6,4 +6,4 @@ class Artist
     @genre = genre
   end
 
-end 
+end
